@@ -1,0 +1,54 @@
+url: https://laberomain.github.io/
+baseurl: /jmariette-project1/
+
+# Site settings
+title: Julien Mariette
+email: info@julienmariette.be
+description: "Ce site est ma super vitrine. J'en ai besoin parce que je suis un dessinateur."
+
+
+# Team names, titles and social links
+people:
+- name: Julien Mariette
+  pic: 1
+  position: Story Boarder
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+- name: Caroline Marmier
+  pic: 2
+  position: Inspectrice
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: 
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: 
+  - title: bitbucket 
+    url: 
+  - title: github
+    url: 
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Liège
+  - line: Belgium
+
+# Build settings
+markdown: kramdown
+permalink: pretty
